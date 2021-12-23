@@ -15,8 +15,8 @@ namespace OnlineShoppingStore
         static PaypalConfiguration()
         {
             var config = getconfig();
-            clientId = "ASe6yrJkEszuyBLgBYYiXo2HovihJmiy5SyU4OZx7LsZSnHp3CWCAjkIdbLzfzkn-1OfOUZ6h865d8r6";
-            clientSecret = "EMaugxh3s9YT0bP-lfs1_xjnzYxTUP8QGjqqhGlrKqFacwLZY7JyfO_j4QZfsuDHEobefMrHQVu6c4GF";
+            clientId = "AagjIeyBCRp8Wno0qywiM6JhzPJVm251gv4Sw-QoQCqoqqFLglcvVShmMZg1UzT88VD9Ge7Ux8e1dKNI";
+            clientSecret = "EJ2yNgVwoapWcZdUCBs88ydbjQ-mpFyTSL7phIb_GaRZhwYTqBfn92__9TgMZe4AAdpSum-lkHM2qEEw";
         }
 
         private static Dictionary<string, string> getconfig()
